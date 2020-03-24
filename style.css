@@ -1,3 +1,10 @@
-. {
-    border-radius: 50%;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+aside {
+  background-color: #1e2939;
+  height: 100%;
+  display: grid;
 }
